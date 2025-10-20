@@ -1,0 +1,10 @@
+agents:
+  - name: "Summary Agent"
+    system_prompt: "You are an expert at creating concise summaries."
+    user_prompt: "Summarize the following content:"
+    temperature: 0.2
+    
+  - name: "Analysis Agent"
+    system_prompt: "You are a data analyst expert."
+    user_prompt: "Analyze the data and provide insights:"
+    temperature: 0.3
