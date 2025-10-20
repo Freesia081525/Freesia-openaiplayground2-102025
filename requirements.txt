@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+pyyaml
+streamlit-agraph
+plotly
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+google-generativeai
+openai
