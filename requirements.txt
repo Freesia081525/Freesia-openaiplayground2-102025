@@ -10,3 +10,4 @@ pdf2image
 Pillow
 google-generativeai
 openai
+xai_sdk
